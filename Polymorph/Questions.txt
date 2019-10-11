@@ -1,0 +1,3 @@
+1. Cette relation est appelée "composition". POur implémenter cette relation en C++ on écrit dans la partie 'private' de la classe Trajectoire "Element parcours".
+
+2. La classe Element est un composant de la classe Trajectoire car celle dernière est constituée physiquement de la classe Element comme on peut le voir sur le modèle UML avec la flèche dotée d'un losange noir.
